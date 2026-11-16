@@ -4,8 +4,6 @@ A dependency-free Ruby gem that makes a basic animated text SVG. It runs locally
 
 ## Install
 
-After the gem is published:
-
 ```sh
 gem install typemotion_art_svg
 ```
